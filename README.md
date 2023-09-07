@@ -5,7 +5,7 @@ Termux'u hacking işlemlerine mümkün olduğunca hazır bir hale getiren tool
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/termux_for_hack
+git clone https://github.com/morbius-os/termux_for_hack
 
 cd termux_for_hack
 
